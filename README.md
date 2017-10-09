@@ -1,3 +1,5 @@
+This READMEFILE is not mine, I just cloned the tutorial from https://github.com/stephengrider
+
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
